@@ -13,11 +13,7 @@ input{
 .text-secundary{
     color:#D2DFEA;
 }
-.centrar {
-  display:flex;
-  align-items: center;
-  justify-content: center;
-}
+
 body{
     background:#f6f6f6;
     font-family: 'Fira Sans', sans-serif;
@@ -34,8 +30,9 @@ body{
 .btn-tam{
     width: 100%;
 }
+
 .btn:hover{
-    color: #004A87;
+    color: #004A87 !important;
 }
 .btn-tam2{
     width: 80%;
